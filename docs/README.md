@@ -3,7 +3,6 @@ home: true
 heroImage: /hero_home.jpg
 heroText: San Thies
 tagline: Engenharia Elétrica e Mecânica
-footer: (47) 3337-6067 | Rua Adele Wruck, 18 - Itoupavazinha - Blumenau/SC - 89066-354
 ---
 
 # A empresa
@@ -22,5 +21,7 @@ Hoje a San Thies, atua em Blumenau e região, desenvolvendo um trabalho sólido,
 
 ## Contato
 
-* :phone: (47) 3337-6067
-* :envelope: carlos@santhies.com.br
+* :phone: <a href="tel:4733376067">(47) 3337-6067</a> 
+* :envelope: <a href="mailto:carlos@santhies.com.br">carlos@santhies.com.br</a>
+
+<Footer></Footer>

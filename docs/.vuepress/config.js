@@ -2,7 +2,6 @@ module.exports = {
     title: 'San Thies',
     description: 'San Thies - Engenharia Elétrica e Mecânica',
     themeConfig: {
-        base: '/new/',
         logo: '/logo.png',
         sidebar: 'auto',
         pref: true,

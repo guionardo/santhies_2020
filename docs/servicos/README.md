@@ -2,7 +2,6 @@
 home: false
 heroText: Serviços
 tagline: null
-footer: (47) 3337-6067 | Rua Adele Wruck, 18 - Itoupavazinha - Blumenau/SC - 89066-354
 ---
 
 # Serviços
@@ -49,3 +48,5 @@ Nossas Máquinas:
 Trabalhamos com os processos MIG, TIG e eletrodo revestido. Realizamos soldagens em diversos aços e ligas. Dispomos de equipamentos diversos bem como os portáteis, para realizarmos soldas diretamente nos locais onde são solicitadas;
 
 Nossa equipe de técnica de soldadores participa continuamente de treinamentos e palestras para especializações e atualizações.
+
+<Footer></Footer>

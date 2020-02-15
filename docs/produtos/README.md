@@ -2,7 +2,6 @@
 home: false
 heroText: Produtos
 tagline: null
-footer: (47) 3337-6067 | Rua Adele Wruck, 18 - Itoupavazinha - Blumenau/SC - 89066-354
 ---
 
 # Produtos
@@ -100,3 +99,5 @@ Se você ou sua empresa tem uma idéia ou uma necessidade, contate-nos! Podemos 
 
 |![Molde expansivo de braços articulados](./moldes/molde_expansivo_bracos_articulados.jpg)|![Molde expansivo de guias cônicos](./moldes/molde_expansivo_guias_conicos.jpg)|
 |---|---|
+
+<Footer></Footer>
