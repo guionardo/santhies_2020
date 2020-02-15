@@ -1,10 +1,9 @@
 {
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "vue-gallery-slideshow": "^1.5.0",
-    "vuepress": "1.3.0"
-  }
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "dependencies": {
+        "vuepress": "1.3.0"
+    }
 }
